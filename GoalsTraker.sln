@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsTraker.API", "GoalsTraker\GoalsTraker.API.csproj", "{E5DDD6D4-28F8-4817-A3F5-644426D6189A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsTraker.Presentation", "ClassLibrary1\GoalsTraker.Presentation.csproj", "{5B3F842F-9827-47CC-B080-30E1E6271A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsTraker.Infastruction", "GoalsTraker.Infastruction\GoalsTraker.Infastruction.csproj", "{9A706AA3-EA94-44F1-813A-80E784D74C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsTraker.Domain", "GoalsTraker.Domain\GoalsTraker.Domain.csproj", "{41C44356-53A5-4C48-A8D0-EE1683DC3EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsTraker.Application", "GoalsTraker.Application\GoalsTraker.Application.csproj", "{20C69DC8-DA01-432E-92AC-1CA72F9E6B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsTraker.Data", "GoalsTraker.Data\GoalsTraker.Data.csproj", "{8F78EC87-F10B-4151-90EF-8B16A6AA17C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DDD6D4-28F8-4817-A3F5-644426D6189A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DDD6D4-28F8-4817-A3F5-644426D6189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DDD6D4-28F8-4817-A3F5-644426D6189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DDD6D4-28F8-4817-A3F5-644426D6189A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3F842F-9827-47CC-B080-30E1E6271A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3F842F-9827-47CC-B080-30E1E6271A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3F842F-9827-47CC-B080-30E1E6271A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3F842F-9827-47CC-B080-30E1E6271A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A706AA3-EA94-44F1-813A-80E784D74C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A706AA3-EA94-44F1-813A-80E784D74C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A706AA3-EA94-44F1-813A-80E784D74C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A706AA3-EA94-44F1-813A-80E784D74C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C44356-53A5-4C48-A8D0-EE1683DC3EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C44356-53A5-4C48-A8D0-EE1683DC3EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C44356-53A5-4C48-A8D0-EE1683DC3EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C44356-53A5-4C48-A8D0-EE1683DC3EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C69DC8-DA01-432E-92AC-1CA72F9E6B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C69DC8-DA01-432E-92AC-1CA72F9E6B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C69DC8-DA01-432E-92AC-1CA72F9E6B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C69DC8-DA01-432E-92AC-1CA72F9E6B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F78EC87-F10B-4151-90EF-8B16A6AA17C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F78EC87-F10B-4151-90EF-8B16A6AA17C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F78EC87-F10B-4151-90EF-8B16A6AA17C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F78EC87-F10B-4151-90EF-8B16A6AA17C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {287B4BAE-BF01-4490-A342-3FE157A8618B}
+	EndGlobalSection
+EndGlobal
